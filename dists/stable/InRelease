@@ -8,30 +8,30 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Glyph apt repository
-Date: Sun, 24 May 2026 22:17:18 +0000
+Date: Fri, 29 May 2026 02:37:05 +0000
 MD5Sum:
- df22540ca1efaf27ef7694992a63d81c 425 main/binary-amd64/Packages
- cdbf91e06742329c8d73faf34a87903d 345 main/binary-amd64/Packages.gz
- 240c4dd5f225e5f0ba4fe2216d0966b4 425 main/binary-arm64/Packages
- a8e4d92899fbdd597218afe745224cb2 350 main/binary-arm64/Packages.gz
+ 120014de49ad8e083a8f5461f3bd7b5c 425 main/binary-amd64/Packages
+ e604fc92cd7669932cebb0142c0c3950 346 main/binary-amd64/Packages.gz
+ a280ec3d45559820e305b7a1525ce347 425 main/binary-arm64/Packages
+ 28d15dedd86de47c406ada94d9fe2709 347 main/binary-arm64/Packages.gz
 SHA256:
- 90b2cfec6a9ad4d760816912ee9db3495ccfc9e24063b49230de9b7af7a0d141 425 main/binary-amd64/Packages
- 9531038f7e3c1bed75033092dc0110195c49106d4ad1b538ada905aea559f9f7 345 main/binary-amd64/Packages.gz
- 6f2e31077e4f36538dbe146bb0a8b3932a71712e83a9d072f58244772875a5c6 425 main/binary-arm64/Packages
- 957684d711e400c9e84c7e61cf7a7979dd92569b3d880d17b2ca3e6697b7fde5 350 main/binary-arm64/Packages.gz
+ e47056d4bbaa283225352e5c6e82be9d909fbc0b8ff069490e3236db82ec40e1 425 main/binary-amd64/Packages
+ 4fb930883f5a204de9dbf102c8f22878bf042925e085832a843fde7235624e6b 346 main/binary-amd64/Packages.gz
+ 9dc6ddf3e83a6436f497301ee5c0c61493af95a0ac34b91ea16e5850a6369ec9 425 main/binary-arm64/Packages
+ da6ab870a67539a5fc7ef1cd5d17d1ccd02f0adf9000a35f8792c737c1145be7 347 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEhpctDDVa0EROyN6yM77sxzKgT3UFAmoTeO4ACgkQM77sxzKg
-T3VXOhAAhY+CIc6M58uTFpgQLXksGU+VwjZgAonjHGLaZ7SbVtZFuKaXj4bh03bZ
-xTynUniAze2V1YbPhVwg8gV2Z+ug9aRAKhN6mWTu7kgXcJoRPw7cke7ZMNis/54m
-dvvnyxuVIEAqBixDg3xtxDrrUjxstU0ObSdXtFAYTyK7N2bIwIiGeTtXf+aLIrnr
-AiymoU2no7DJ3duaE4Lvj4GlCuTUDuM5ceJhZuk+h9+1H5/+WYWcQ72xP3PYDsH2
-gUDu/mc8GBRFoELyzSmsntNMPV/2vIvwmMu8elTQxzkq4cp/vfaoNc61ONnJUf+i
-M1hQYkEYuH7fgN1gt1YvWYy24xB3CvFjAZtPZpjFs+ZcVWbDpaIEwg6G+y8zMK0h
-eFPyZd0hRY4eZabbHQl3q5q2qTA3GdwRX8i7kGtDDI2HgV3e2NzYit+vWieU/2nx
-AGff4CzCFS/bvfMUd800nQDt0nGI3nMINjGO0LRPVG26fnJCJGAn6KaHb3vRkbK5
-6S0gQJtKLtoS6swLz35RMQhzxfLH8OE6GMbu3E4JqHyFnCZ6IPKJ2wwbeFRMoRGj
-+vBWGcRvoqJ2GJeKJsqBdrfvL+s8GoI+6BMqZOWAVgwiWfbNmu0449w2XlTb6nLR
-SVh/hPMr0IdPuInmPH8e/wMpHDJEb7YPJJP2NlAuf8JeVw2brAY=
-=mffe
+iQIzBAEBCgAdFiEEhpctDDVa0EROyN6yM77sxzKgT3UFAmoY+9EACgkQM77sxzKg
+T3WXWBAAmJzCZv3yFHLIs/5JgmDxHAMSKRSnnAfcUuhM6OIHpQFyFtniW9xFr/Q/
+t1nV8hD8/rLsPkVvpNcWEIp3GAbqEsuEm7zPexKrW75wAHo9/nR/HQ0mpT7sff7K
+yUPr0zgIGdeiBz6fB/4+7jXjD8LIT8ccBicY0W8NCxiGbmUqcw+Lle8Sw7lMVZRB
+IyqufQWUUCvBLZbesqa6zld7WlmeKKpougL+C9AaOZsoogjKi+zNx+ZuqMfS4j5y
+04b7vUYNGb/HTWToZGjNh3THer8YiG9voWJltmjid8ZVZYuSTrRb+JvA/A7QDeOu
+u7qUD5LyPJK5ufVFlC8dNxo9zsIHM4upZ/F942+ra3alqmZf8U7Tivn3RFERD1FF
+EYQQjbbNdp1N2EJ5wnHdcmjOfc0nbUaZ7LDF/Ddo6YoVyIMKzj5YqM6l+ipiPUqo
+cLqleTzp/IEzhxj1FwYBIQ/zKm6siaq7fpp2lmHi1X4FW242orOk5qhlxG+j2eOH
+KLV+b1lE1/W2pJ3uENoCkAUOdxBTuO4vYoRq/H4wPygfe7uw4Xqctu9MdcS/g3T+
+8jtS6W8uMHz/a9qoN6JNm7YtpHLNqJrvON1Ls0VbWSAgrt6tOli2clSMZWwqrveS
+4bJ1FRlMh9fW9Mwun4pTFgzANiReuGsgecKaTRNrzRhM/WBgqNo=
+=offs
 -----END PGP SIGNATURE-----
