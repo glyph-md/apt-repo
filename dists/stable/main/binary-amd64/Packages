@@ -1,14 +1,14 @@
 Package: glyph
-Version: 0.10.0
+Version: 0.11.0
 Architecture: amd64
 Maintainer: hamidfzm
-Installed-Size: 28544
+Installed-Size: 28639
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/Glyph_0.10.0_amd64.deb
-Size: 12040160
-MD5sum: 34729c7b09be39b13c644767fbb4fd6c
-SHA1: 50f7464110b2397b8815fe90ada7401976323d9a
-SHA256: 93e5d40ba44ee78563bc27e717ee954c714bbe6e63337d361a801c6c8cb53e4d
+Filename: pool/main/Glyph_0.11.0_amd64.deb
+Size: 12078200
+MD5sum: 16648ab91acafa75aac94d92e0308759
+SHA1: 6e8dd788b0d0592e88f70db05c9ee2ae9443ad26
+SHA256: 35c7790c8acc8507a1b9ce7bd90b0d6eadcb740c7568e7b2d68e5d13ccc363e2
 Priority: optional
 Description: A cross-platform markdown viewer
  (none)
