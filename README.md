@@ -1,15 +1,10 @@
 # Glyph APT Repository
 
-Debian/Ubuntu apt repository for [Glyph](https://github.com/hamidfzm/glyph), a cross-platform markdown viewer.
+Debian/Ubuntu apt repository for [Glyph](https://github.com/hamidfzm/glyph), a cross-platform markdown viewer and editor.
 
-## Setup
+## Install
 
-```bash
-curl -fsSL https://hamidfzm.github.io/apt-repo/gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/glyph.gpg
-echo "deb [signed-by=/usr/share/keyrings/glyph.gpg] https://hamidfzm.github.io/apt-repo stable main" | sudo tee /etc/apt/sources.list.d/glyph.list
-sudo apt update
-sudo apt install glyph
-```
+Setup instructions live on the Glyph website: **https://glyph.md/#download** (see the "Debian / Ubuntu · APT" card).
 
 ## Architectures
 
