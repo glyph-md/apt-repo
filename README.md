@@ -4,7 +4,7 @@ Debian/Ubuntu apt repository for [Glyph](https://github.com/hamidfzm/glyph), a c
 
 ## Install
 
-Setup instructions live on the Glyph website: **https://glyph.md/#download** (see the "Debian / Ubuntu · APT" card).
+Setup instructions live on the Glyph website: **https://glyph-md.github.io/#download** (see the "Debian / Ubuntu · APT" card).
 
 ## Architectures
 
