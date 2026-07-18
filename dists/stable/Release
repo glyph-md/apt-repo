@@ -5,14 +5,14 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Glyph apt repository
-Date: Sun, 12 Jul 2026 18:52:07 +0000
+Date: Sat, 18 Jul 2026 19:02:11 +0000
 MD5Sum:
- 19fe6cac5dcadf49e87a73979b70151c 428 main/binary-amd64/Packages
- 27f5150f64cd35fadf3ece60b8c44b24 348 main/binary-amd64/Packages.gz
- 8fdfd2bbe0c95bb2b777fb6f7463db13 428 main/binary-arm64/Packages
- d5fb7b9590698ae8c13eb2bf692c4519 348 main/binary-arm64/Packages.gz
+ 9dde418ef57c1fc3346531934a78e8bd 428 main/binary-amd64/Packages
+ cd323817b03dd89a482e9ff4d4487d9c 348 main/binary-amd64/Packages.gz
+ 2f34ae3a02f4e1acc86d8a20cdb1feb9 428 main/binary-arm64/Packages
+ 58f8cc58bedfd36a465e575983628394 350 main/binary-arm64/Packages.gz
 SHA256:
- bb3ff72840a34a93ae73c091eb948ea425fb274dd6b742cf7fc848462f0c7a58 428 main/binary-amd64/Packages
- 9035c1397f2b304fcc9f29e3b2cf356ebacd049f2b84951e1c9ad136d62ce6ee 348 main/binary-amd64/Packages.gz
- 02b291675c8bfb0140741064f9af71b12f08852d35a0bc72de1976174ca5b273 428 main/binary-arm64/Packages
- 750542435b18cfb742f3f0ac51d139b413ad198fda4ae5992c670a5bbe9099e1 348 main/binary-arm64/Packages.gz
+ 4fa8930ef98476d480c3d3e33dd831b0ebf1554143f812609535e32b3aaceb68 428 main/binary-amd64/Packages
+ 96a013e92d5ad7f76e7f235b1d124088bbe5ec0a1a380e0aeaa9b812a89476d3 348 main/binary-amd64/Packages.gz
+ 7bc900a5389f2899c14d2583bfcbec3a593adff181d7799a65447672ce734783 428 main/binary-arm64/Packages
+ c5a0c1c8d6397c7e8d8cc660458bc40202c4a93ce2352be58685988d69aa0f52 350 main/binary-arm64/Packages.gz
